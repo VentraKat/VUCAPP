@@ -766,7 +766,7 @@ opacity: 0.6 !important;
                 <button class="tab-link" onclick="openTab(event, 'tab-install')">Установка</button>
             </div>
             <button id="theme-toggle" class="btn fluent-icon"  aria-label="Переключить тему" style="height: 32px; width: 42px; font-size: 16px;">&#xE708;</button>
-            <button class="btn btn-primary" onclick="openURL('https://github.com/VentraKat/VUCAPP/releases/latest/download/VUCAPP.zip')" style="height: 32px; display: flex; line-height: 32px;"><div style="font-family: cfu; font-size: 15px;">&#xE896;</div><div style="margin-left: 8px;">Скачать</div></button>
+            <button class="btn btn-primary" onclick="openURL('https://github.com/VentraKat/VUCAPP/releases/latest/download/Install_vucapp.exe')" style="height: 32px; display: flex; line-height: 32px;"><div style="font-family: cfu; font-size: 15px;">&#xE896;</div><div style="margin-left: 8px;">Скачать</div></button>
         </div>
     </nav>
 
@@ -774,21 +774,22 @@ opacity: 0.6 !important;
         <!-- Вкладка 1: Главная (только самое основное) -->
         <div id="tab-main" class="tab-content active">
             <header class="hero">
-                <div style="display: flex; justify-content: center; margin-bottom: 16px; display: none;">
+                <div style="display: flex; justify-content: center; margin-bottom: 16px;">
     <button onclick="openURL('https://github.com/VentraKat/VUCAPP/releases/latest')" class="btn btn-primary" style="height: 32px; display: flex; line-height: 32px;">
         <div style="font-family: cfu; font-size: 15px;">&#xE8C9;</div>
-        <div style="margin-left: 8px;">Вышла новая версия 2.0 !</div>
+        <div style="margin-left: 8px;">Вышла новая версия 3.0 !</div>
     </button>
 </div>
                 <div class="hero-logo"></div>
                 <h1>VentraUniverseCreateAPP</h1>
                 <p class="subtitle">Новая современная альтернатива PHP Devel Studio. Мощная и простая визуальная среда разработки для ленивых разработчиков и новичков.</p>
                 <div class="hero-buttons" style="margin-bottom: 8px;">
-                    <button onclick="openURL('https://github.com/VentraKat/VUCAPP/releases/latest/download/VUCAPP.zip')" class="btn btn-primary" style="height: 32px; display: flex; line-height: 32px;"><div style="font-family: cfu; font-size: 15px;">&#xE896;</div><div style="margin-left: 8px;">Скачать VUCAPP</div></button>
-                    <button class="btn" onclick="openTab(event, 'tab-features'); document.getElementById('pedd').classList.add('active')">Изучить возможности</button>
+                    <button onclick="openURL('https://github.com/VentraKat/VUCAPP/releases/latest/download/Install_vucapp.exe')" class="btn btn-primary" style="height: 32px; display: flex; line-height: 32px;"><div style="font-family: cfu; font-size: 15px;">&#xE896;</div><div style="margin-left: 8px;">Скачать VUCAPP</div></button>
+                    <button onclick="openURL('https://github.com/VentraKat/VUCAPP/releases/download/Requirements.zip/Requirements.zip')" class="btn btn-primary" style="height: 32px; display: flex; line-height: 32px;"><div style="font-family: cfu; font-size: 15px;">&#xE90F;</div><div style="margin-left: 8px;">Скачать требования</div></button>
                 </div>
                 <div class="hero-buttons">
                     <button onclick="openURL('https://github.com/VentraKat/VUCAPP')" class="btn">Просмотреть на GitHub</button>
+                    <button class="btn" onclick="openTab(event, 'tab-features'); document.getElementById('pedd').classList.add('active')">Изучить возможности</button>
                 </div>
             </header>
 
@@ -1119,7 +1120,7 @@ SOFTWARE.
                     <h3>Скачивание VentraUniverseCreateAPP</h3>
                     <p>Скачайте последнюю версию программы в виде ZIP-архива по прямой ссылке:</p>
                     <div style="margin-top: 16px; display: flex; gap: 8px;">
-                        <button onclick="openURL('https://github.com/VentraKat/VUCAPP/releases/latest/download/VUCAPP.zip')" class="btn btn-primary" style="margin-bottom: 16px; height: 32px; display: flex; line-height: 32px;"><div style="font-family: cfu; font-size: 15px;">&#xE896;</div><div style="margin-left: 8px;">Скачать VUCAPP.zip</div></button>
+                        <button onclick="openURL('https://github.com/VentraKat/VUCAPP/releases/latest/download/Install_vucapp.exe')" class="btn btn-primary" style="margin-bottom: 16px; height: 32px; display: flex; line-height: 32px;"><div style="font-family: cfu; font-size: 15px;">&#xE896;</div><div style="margin-left: 8px;">Скачать Install_vucapp.exe</div></button>
                         <button onclick="openURL('https://github.com/VentraKat/VUCAPP/releases/')" target="_blank" class="btn">Другие версии</button>
                     </div>
                 </div>
@@ -1139,8 +1140,8 @@ SOFTWARE.
                     <div class="step-number">4</div>
                     <h3>Инструкция по установке</h3>
                     <div class="code-block">
-                        1. Распакуйте скачанный архив <strong>VUCAPP.zip</strong>.<br>
-                        2. Убедитесь, что у вас установлен <strong>.NET SDK</strong>. Если его нет, откройте установщик из папки <strong>fixes</strong>.<br>
+                        1. Скачайте <strong>Install_vucapp.exe</strong>.<br>
+                        2. Убедитесь, что у вас установлен <strong>.NET SDK</strong>. Если его нет, откройте <strong>fixes</strong>.<br>
                         3. Запустите приложение <strong>Install_VUCAPP.exe</strong>, нажмите установить, появится окно <strong>!НЕ ЗАКРЫВАТЬ!</strong>, после успешной установки, потребуется закрыть, нажмите.<br>
                         4. Запустите <strong>C:\vucapp\launcher.exe</strong>. После запуска брандмауэр может запросить сетевой доступ — обязательно подтвердите, нажав "ДА".
                     </div>
@@ -1201,7 +1202,7 @@ SOFTWARE.
             <span>Переключить тему</span>
         </div>
         <div class="context-menu-separator"></div>
-        <div class="context-menu-item" onclick="window.open('https://github.com/VentraKat/VUCAPP/releases/latest/download/VUCAPP.zip', '_blank')">
+        <div class="context-menu-item" onclick="window.open('https://github.com/VentraKat/VUCAPP/releases/latest/download/Install_vucapp.exe', '_blank')">
             <span class="fluent-icon" style="color: var(--accent-color);">&#xE896;</span>
             <span>Скачать последнюю версию VUCAPP</span>
         </div>
