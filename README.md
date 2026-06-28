@@ -35,7 +35,7 @@ VentraUniverseCreateAPP (или сокращенно VUCAPP) — это IDE с �
 
 ## 🔗 Ссылки
 
-- [ 📦 Скачать VentraUniverseCreateAPP (x64) ](https://github.com/VentraKat/VUCAPP/releases/latest/download/VUCAPP.zip)
+- [ 📦 Скачать VentraUniverseCreateAPP (x64) ](https://github.com/VentraKat/VUCAPP/releases/latest/download/Install_vucapp.exe)
 - [ 🔧 Скачать требования ](https://github.com/VentraKat/VUCAPP/releases/download/Requirements.zip/Requirements.zip)
 - [ 📜 Посмотреть инструкцию к установке ](https://github.com/VentraKat/VUCAPP/blob/main/another/Instruction.md)
 - [ 🌎 Сайт программы ](https://ventrakat.github.io/VUCAPP/)
