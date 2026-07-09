@@ -14,8 +14,9 @@ VentraUniverseCreateAPP (или сокращенно VUCAPP) — это IDE с �
 Идеально подходит для новичков, но и для обычных разработчиков: вы собираете красивый интерфейс мышкой, а VUCAPP автоматически генерирует чистый код на **C#**.
 
 <div align="center">
-  <img width="49%" alt="Скриншот интерфейса 1" src="https://github.com/user-attachments/assets/b74eb3cd-c727-42cf-94da-0b79f71f29dd" />
-  <img width="49%" alt="Скриншот интерфейса 2" src="https://github.com/user-attachments/assets/3e38fcd5-807e-4850-97f2-d7109d26df1c" />
+  <img width="49%" alt="Скриншот интерфейса 2" src="https://github.com/user-attachments/assets/d352a991-f3dd-489e-86bd-484e1b44c30f" />
+  <img width="49%" alt="Скриншот интерфейса 2" src="https://github.com/user-attachments/assets/f91c67ff-5fae-4bbe-ac06-d7daf4ecc875" />
+
 </div>
 
 ## ✨ Ключевые возможности
