@@ -3,7 +3,7 @@
   <h1><b>VUCAPP</b></h1>
   <p><i>Удобная IDE для сборок .exe-приложений для Windows 11 с дизайном WinUI 3.</i></p>
 
-  [![License: MIT](https://img.shields.io/badge/Лицензия-MIT-red)](https://github.com/VentraKat/VUCAPP/blob/main/LICENSE)
+  [![License: All Rights Reserved](https://img.shields.io/badge/Лицензия-Proprietary-red)](https://github.com/VentraKat/VUCAPP/blob/main/LICENSE)
   [![Release](https://img.shields.io/github/v/release/VentraKat/VUCAPP)](https://github.com/VentraKat/VUCAPP/releases)
   [![WebSite](https://img.shields.io/badge/Сайт-Ссылка-green)](https://ventrakat.github.io/VUCAPP/)
 </div>
@@ -16,7 +16,6 @@ VentraUniverseCreateAPP (или сокращенно VUCAPP) — это IDE с �
 <div align="center">
   <img width="49%" alt="Скриншот интерфейса 2" src="https://github.com/user-attachments/assets/d352a991-f3dd-489e-86bd-484e1b44c30f" />
   <img width="49%" alt="Скриншот интерфейса 2" src="https://github.com/user-attachments/assets/f91c67ff-5fae-4bbe-ac06-d7daf4ecc875" />
-
 </div>
 
 ## ✨ Ключевые возможности
@@ -41,8 +40,12 @@ VentraUniverseCreateAPP (или сокращенно VUCAPP) — это IDE с �
 - [ 📜 Посмотреть инструкцию к установке ](https://github.com/VentraKat/VUCAPP/blob/main/another/Instruction.md)
 - [ 🌎 Сайт программы ](https://ventrakat.github.io/VUCAPP/)
 
-
-
-
 ## 📄 Лицензия
-VUCAPP распространяется под лицензией **MIT**. Вы можете использовать, модифицировать и распространять программу в личных и коммерческих целях абсолютно бесплатно.
+
+Copyright (c) 2026 VentraKat. All rights reserved.
+
+Исходный код VUCAPP предоставляется **исключительно для ознакомления и чтения**. Любое копирование, создание форков, модификация, распространение или использование данного кода без предварительного письменного согласия запрещены.
+
+Запросы на разрешение использования направляйте по адресу: **ventrakat@gmail.com**
+
+Полную версию условий см. в файле [LICENSE](https://github.com/VentraKat/VUCAPP/blob/main/LICENSE).
